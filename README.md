@@ -12,21 +12,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Windows and Linux Virtual Machines on Microsoft Azure
 - Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro </b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+•	osTicket: [Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+
+<h2>Steps</h2>
+
+-	Step 1: Using Microsoft Azure Connect to a Windows 10 VM using RDP.
+-	Step 2: Download and extract the osTicket “Installation Files” zip file.
+-	Step 3: Install all of the osTicket requirement files. 
+-	Step 4: Install osTicket.
+
 
 <h2>Installation Steps</h2>
 
