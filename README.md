@@ -257,7 +257,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="416" height="318" alt="Step 3h1" src="https://github.com/user-attachments/assets/23f1c36a-19d2-4cfd-8f5b-25dad9f471e3" /> <img width="88" height="318" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/27155ed1-ca71-40e5-be1a-b3ccf757a6dd" /> <img width="416" height="318" alt="Step 3h2" src="https://github.com/user-attachments/assets/d184b37a-b402-479a-8f70-668c1efe0b58" />
+<img width="416" height="318" alt="Step 3h1" src="https://github.com/user-attachments/assets/23f1c36a-19d2-4cfd-8f5b-25dad9f471e3" /> <img width="48" height="318" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/a641b16d-3a64-4db6-8a6b-22b7253b9f6b" /> <img width="416" height="318" alt="Step 3h2" src="https://github.com/user-attachments/assets/d184b37a-b402-479a-8f70-668c1efe0b58" />
 
 
 
