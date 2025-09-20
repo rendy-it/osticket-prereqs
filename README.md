@@ -130,7 +130,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="416" height="713" alt="Step 3b" src="https://github.com/user-attachments/assets/69353294-19b9-47a2-b0e1-3644d74d3de7" />
+<img width="420" height="718" alt="Step 3b" src="https://github.com/user-attachments/assets/f95537f5-e3d0-4a10-8010-e31eee7ea15e" />
+
 
 
 
@@ -146,3 +147,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+
+<p>
+<img width="1004" height="676" alt="Step 3c" src="https://github.com/user-attachments/assets/1ee9f1fd-78b2-4b51-8742-9dc942e91db3" />
+
+
+
+
+</p>
+<p>
+  
+- From the Installation Files folder on your Desktop,
+  - Install the PHP Manager (PHPManagerForIIS_V1.5.0.msi).
+
+
+
+
+</p>
+<br />
+
