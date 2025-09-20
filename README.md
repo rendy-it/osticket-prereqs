@@ -279,6 +279,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+<p>
+<img width="358" height="274" alt="Step 3h4" src="https://github.com/user-attachments/assets/b15dc0da-b3d2-4192-9b07-7a50f64bd022" /> <img width="69" height="271" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/eeee5dc0-1d35-4375-ba0e-26da002003ea" /> <img width="358" height="274" alt="Step 3h5" src="https://github.com/user-attachments/assets/f3fb90e7-3d30-4ef3-a080-0fdeb5def206" />
+
+
+
+
+
+
+</p>
+<p>
+  
+- Select Next again, then create a username and password and make sure you do not forget it. Then click Next.
+- Then, select “Execute”.
+
+
+
+
+
+
+</p>
+<br />
 
 
 
