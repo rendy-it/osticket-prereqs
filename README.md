@@ -166,3 +166,65 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<p>
+<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
+
+
+
+
+</p>
+<p>
+  
+- Next, in the installation files folder,
+  -	Install the Rewrite Module (rewrite_amd64_en-US.msi).
+
+
+
+
+
+</p>
+<br />
+
+<p>
+<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
+
+
+
+
+</p>
+<p>
+  
+- Next, we are going to create the directory C:\PHP
+  -	Go to your Windows (C:) drive and create a folder named “PHP”.
+
+
+
+
+
+
+</p>
+<br />
+
+<p>
+<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
+
+
+
+
+</p>
+<p>
+  
+- Now go back to the installation files folder and unzip the “php-7.3.8-nts-Win32-VC15-x86” zip file in to the PHP folder.
+
+
+
+
+
+
+</p>
+<br />
+
+
+
+
+
