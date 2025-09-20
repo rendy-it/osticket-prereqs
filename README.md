@@ -248,6 +248,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 - Next, in the installation files folder:
   - Install “MySQL 5.5.62” (mysql-5.5.62-win32.msi).
+  - Select “Typical Setup”, then click Next.
 
 
 
@@ -268,7 +269,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Select “Typical Setup”, then click Next.
 - Then the “Instance Configuration Wizard” window will appear.
 - Select “Standard Configuration”, then click Next.
 
