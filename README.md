@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h2> << Step 1: Using Microsoft Azure Connect to a Windows 10 VM using RDP. >> </h2>
+<h2> << Step 1: Using Microsoft Azure Connect to a Windows 10 VM using RDP >> </h2>
 <p>
 <img width="1351" height="394" alt="Step 1" src="https://github.com/user-attachments/assets/feb3a155-5afd-4a9e-8108-e38824cf5332" />
 
@@ -71,7 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h2> << Step 2: Download and extract the osTicket “Installation Files” zip file. >> </h2>
+<h2> << Step 2: Download and extract the osTicket “Installation Files” zip file >> </h2>
 
 <p>
 <img width="1303" height="352" alt="Step 2" src="https://github.com/user-attachments/assets/6af6d5ec-fa7b-4646-8748-36e313e7e6cd" />
@@ -99,78 +99,50 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<h2> << Step 3: Install all of the osTicket Requirement Files >> </h2>
 <p>
-<img width="689" height="303" alt="Step 2c" src="https://github.com/user-attachments/assets/aca34aa7-c4fd-410d-af56-0453b25d4beb" />
+<img width="971" height="564" alt="Step 3" src="https://github.com/user-attachments/assets/aed3b5f7-0702-4f80-bd56-f7828852676f" />
+
 
 
 </p>
 <p>
   
-- At the “Apply a Display filter” bar at the top:
-  - Type “icmp” and press enter.
-  - All the of traffic flows will disappear. Because it will now only show traffic that is pinged.
+- Enable IIS (Internet Information Services) in Windows.
+  - Go to "Control Panel" 
+  - Then click on “Uninstall Program” under Programs.
 
 
 </p>
 <br />
 
 <p>
-<img width="667" height="241" alt="Step 2d" src="https://github.com/user-attachments/assets/cceb643f-f595-477a-ab68-9f2a732a92a1" />
+<img width="971" height="564" alt="Step 3a" src="https://github.com/user-attachments/assets/d8ed245c-c01e-41c1-911e-998393b3c7fb" />
 
 
 </p>
 <p>
   
-- Next, minimize the windows VM, go back to your Azure VMs web page to get the Linux VM private ip address.
-   - You will find it under the Networking section of your VM's properties tab.
-   
-</p>
-<br />
-<p>
-<img width="748" height="616" alt="Step 2e" src="https://github.com/user-attachments/assets/2796a37d-ccbf-47a6-ad72-eab71a168d63" />
-
-</p>
-<p>
-
-- Next, go back to the Windows VM, go to the windows search bar, search for “PowerShell”.
-  - Once you find it open PowerShell as an administrator.
-
-</p>
-<br />
-<p>
-<img width="538" height="268" alt="Step 2f" src="https://github.com/user-attachments/assets/ffc7780c-4adc-4917-8369-ab8d91b38847" />
-
-</p>
-<p>
-
-- Once in PowerShell type “ping” then type or paste your Linux private ip number.
-  - Example: ping 10.1.0.5 
+- Then click on "Turn Windows features on or off"
 
 
 </p>
 <br />
+
 <p>
-<img width="592" height="395" alt="Step 2g" src="https://github.com/user-attachments/assets/d5979511-5fb3-4127-84dc-9eda418faa11" />
+<img width="416" height="713" alt="Step 3b" src="https://github.com/user-attachments/assets/69353294-19b9-47a2-b0e1-3644d74d3de7" />
 
 
-</p>
-<p>
-
-- Next, PowerShell will display the ping statistics of the packets sent by the Linux VM and the packets received by the Windows VM.
-
-
-</p>
-<br />
-<p>
-<img width="969" height="355" alt="Step 2h" src="https://github.com/user-attachments/assets/af1b77ed-aed8-4761-acab-dbbb2cc65ddc" />
 
 
 </p>
 <p>
   
-- Once you ping, Wireshark will capture and display its icmp traffic flow. 
-  - Will display ping requests from the Windows VM (10.1.0.4) and replies from the Linux VM (10.1.0.5) within the Wireshark interface.
+- Inside IIS (Internet Information Services), you want to expand “World Wide Web Services”.
+-	Then expand “Application Development Features”.
+- Then check the “CGI” folder and click Ok.
 
-  
+
+
 </p>
 <br />
