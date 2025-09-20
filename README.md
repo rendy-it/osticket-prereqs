@@ -207,7 +207,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1191" height="760" alt="Step 3f" src="https://github.com/user-attachments/assets/b5da39fe-3f80-4109-9004-4c3d05c259af" />
+<img width="1185" height="751" alt="Step 3f" src="https://github.com/user-attachments/assets/9ea1a96a-ca47-4711-bfa6-ad6a71d73da9" />
+
 
 
 
@@ -219,12 +220,64 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+</p>
+<br />
+<p>
+<img width="989" height="605" alt="Step 3g" src="https://github.com/user-attachments/assets/fb30b596-963f-4296-8a53-f114f5050c69" />
+
+
+
+</p>
+<p>
+  
+- Next, in the installation files folder:
+  -	Install "VC_redist.x86".
+
+
+
+
+</p>
+<br />
+<p>
+<img width="1012" height="668" alt="Step 3h" src="https://github.com/user-attachments/assets/c50ecce9-952c-44f0-a691-f21b7909bbcb" />
+
+
+
+</p>
+<p>
+  
+- Next, in the installation files folder:
+  - Install “MySQL 5.5.62” (mysql-5.5.62-win32.msi).
+
+
 
 
 
 </p>
 <br />
 
+<p>
+<img width="416" height="318" alt="Step 3h1" src="https://github.com/user-attachments/assets/23f1c36a-19d2-4cfd-8f5b-25dad9f471e3" /> <img width="88" height="318" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/27155ed1-ca71-40e5-be1a-b3ccf757a6dd" /> <img width="416" height="318" alt="Step 3h2" src="https://github.com/user-attachments/assets/d184b37a-b402-479a-8f70-668c1efe0b58" />
+
+
+
+
+
+
+</p>
+<p>
+  
+- Select “Typical Setup”, then click Next.
+- Then the “Instance Configuration Wizard” window will appear.
+- Select “Standard Configuration”, then click Next.
+
+
+
+
+
+
+</p>
+<br />
 
 
 
