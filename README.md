@@ -109,7 +109,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 - Enable IIS (Internet Information Services) in Windows.
-  - Go to "Control Panel" 
+  - Go to "Control Panel". 
   - Then click on “Uninstall Program” under Programs.
 
 
@@ -123,7 +123,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Then click on "Turn Windows features on or off"
+- Then click on "Turn Windows features on or off".
 
 
 </p>
@@ -157,7 +157,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- From the Installation Files folder on your Desktop,
+- From the Installation Files folder on your Desktop:
   - Install the PHP Manager (PHPManagerForIIS_V1.5.0.msi).
 
 
@@ -175,7 +175,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Next, in the installation files folder,
+- Next, in the installation files folder:
   -	Install the Rewrite Module (rewrite_amd64_en-US.msi).
 
 
@@ -186,7 +186,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
+<img width="792" height="394" alt="Step 3e" src="https://github.com/user-attachments/assets/ea59a03c-41f3-4e41-832d-7afb4b33ca86" />
+
 
 
 
@@ -194,7 +195,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Next, we are going to create the directory C:\PHP
+- Next, we are going to create the directory C:\PHP :
   -	Go to your Windows (C:) drive and create a folder named “PHP”.
 
 
@@ -206,7 +207,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
+<img width="1191" height="760" alt="Step 3f" src="https://github.com/user-attachments/assets/b5da39fe-3f80-4109-9004-4c3d05c259af" />
 
 
 
