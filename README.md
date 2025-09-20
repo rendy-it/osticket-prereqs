@@ -294,13 +294,104 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Then, select “Execute”.
 
 
+</p>
+<br />
+<p>
+<img width="755" height="590" alt="Step 3i" src="https://github.com/user-attachments/assets/1893f77e-7c90-4dda-8e52-ed05b9404fb4" />
 
+
+
+
+</p>
+<p>
+  
+- Next, Open IIS as an Administrator.
+
+
+
+</p>
+<br />
+<p>
+<img width="1034" height="415" alt="Step 3i2" src="https://github.com/user-attachments/assets/be704377-40d6-4235-bbbe-0756104c26d7" />
+
+
+
+
+
+</p>
+<p>
+  
+- Next, double click on “PHP Manager”.
+
+
+
+</p>
+<br />
+<p>
+<img width="623" height="527" alt="Step 3i3" src="https://github.com/user-attachments/assets/058f9bf5-7318-4c5c-a42f-b0f111e74ac8" />
+
+
+
+
+
+
+</p>
+<p>
+  
+- Then, click on “Register new PHP version”.
 
 
 
 </p>
 <br />
 
+<p>
+<img width="510" height="220" alt="Step 3i4" src="https://github.com/user-attachments/assets/0ee3d8aa-bc8a-4713-bf3a-2d012549bce4" />
+
+
+
+
+
+</p>
+<p>
+  
+- Then, click on the 3 dots button “…” next to the path bar.
+
+
+
+</p>
+<br />
+<p>
+<img width="949" height="572" alt="Step 3i5" src="https://github.com/user-attachments/assets/73a65c30-e1c7-4cc7-a01d-a55a5af3b82a" />
+
+
+
+
+
+</p>
+<p>
+  
+- Then, go to the “PHP” folder that we created and select the “php-cgi” application file. Click open then click OK.
+
+
+
+</p>
+<br />
+<p>
+<img width="1063" height="371" alt="Step 3i6" src="https://github.com/user-attachments/assets/e9f375cb-d3da-4ec3-8eaf-cc6513198257" />
+
+
+
+
+</p>
+<p>
+  
+-	Then go back to the main interface and on the top right, click “Stop” then click on “Start”.
+
+
+
+</p>
+<br />
 
 
 
