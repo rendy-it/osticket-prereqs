@@ -395,7 +395,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2> << Step 4: Install osTicket >> </h2>
 <p>
-<img width="971" height="564" alt="Step 3" src="https://github.com/user-attachments/assets/aed3b5f7-0702-4f80-bd56-f7828852676f" />
+<img width="1184" height="609" alt="Step 4" src="https://github.com/user-attachments/assets/2136e797-a7cc-4850-af6b-22aef6e18127" />
+
 
 </p>
 <p>
@@ -410,31 +411,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="971" height="564" alt="Step 3a" src="https://github.com/user-attachments/assets/d8ed245c-c01e-41c1-911e-998393b3c7fb" />
-
+<img width="425" height="296" alt="Step 4a" src="https://github.com/user-attachments/assets/d4df4602-0fae-473e-b461-4b3c0a6904fc" />
 
 </p>
 <p>
   
-- Then click on "Turn Windows features on or off".
+- Next, open a new file explorer folder and head to this directory “C:\inetpub\wwwroot”.
 
 
 </p>
 <br />
 
 <p>
-<img width="420" height="718" alt="Step 3b" src="https://github.com/user-attachments/assets/f95537f5-e3d0-4a10-8010-e31eee7ea15e" />
-
-
-
+<img width="436" height="296" alt="Step 4b" src="https://github.com/user-attachments/assets/cabbb1df-73d8-4428-b4fb-90ff544c0bf7" />
 
 
 </p>
 <p>
   
-- Inside IIS (Internet Information Services), you want to expand “World Wide Web Services”.
--	Then expand “Application Development Features”.
-- Then check the “CGI” folder and click Ok.
+- Next, head over to the “osTicket-v1.15.8” folder and copy the “upload” folder. 
 
 
 
