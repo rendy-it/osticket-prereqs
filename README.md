@@ -427,7 +427,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="282" height="287" alt="Step 4ba" src="https://github.com/user-attachments/assets/ef350851-1298-4d81-a127-949a331517f6" /> <img width="111" height="287" alt="Right Pointing Arrow for Step 4a_b" src="https://github.com/user-attachments/assets/3ec0fe5d-e35f-46c7-b68f-40198a902993" /> <img width="282" height="287" alt="Step 4b1" src="https://github.com/user-attachments/assets/f9cd473a-998e-48db-bb78-911fcff905ff" />
+<img width="282" height="287" alt="Step 4b1" src="https://github.com/user-attachments/assets/fba0a8cc-1b78-45c7-9fa2-bac35ffe3176" /> <img width="111" height="287" alt="Right Pointing Arrow for Step 4a_b" src="https://github.com/user-attachments/assets/3ec0fe5d-e35f-46c7-b68f-40198a902993" /> <img width="282" height="287" alt="Step 4b2" src="https://github.com/user-attachments/assets/0a15047c-fbc7-4aaa-a648-11bd64e18761" />
 
 
 
@@ -445,35 +445,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1004" height="676" alt="Step 3c" src="https://github.com/user-attachments/assets/1ee9f1fd-78b2-4b51-8742-9dc942e91db3" />
-
-
+<img width="1063" height="371" alt="Step 3i6" src="https://github.com/user-attachments/assets/86f84a60-91bc-4f0a-9090-e4bc0a412549" />
 
 
 </p>
 <p>
   
-- From the Installation Files folder on your Desktop:
-  - Install the PHP Manager (PHPManagerForIIS_V1.5.0.msi).
-
-
+- Next, go back to the “IIS” main interface, and click “Stop” and then “Start”.
 
 
 </p>
 <br />
 
 <p>
-<img width="1004" height="676" alt="Step 3d" src="https://github.com/user-attachments/assets/8c5efad0-d48e-4eb6-a669-606419bf90b9" />
-
-
-
+<img width="1021" height="374" alt="Step 4c" src="https://github.com/user-attachments/assets/9ac7c417-aa5a-4614-b529-2d59e6522a56" />
 
 </p>
 <p>
   
-- Next, in the installation files folder:
-  -	Install the Rewrite Module (rewrite_amd64_en-US.msi).
-
+- Then toggle down “Sites” and select “osTicket”.
 
 
 
