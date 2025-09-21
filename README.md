@@ -411,12 +411,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="425" height="296" alt="Step 4a" src="https://github.com/user-attachments/assets/d4df4602-0fae-473e-b461-4b3c0a6904fc" />
+<img width="282" height="287" alt="Step 4a" src="https://github.com/user-attachments/assets/df382abe-d665-452c-b927-068b31781da0" /> <img width="111" height="287" alt="Right Pointing Arrow for Step 4a_b" src="https://github.com/user-attachments/assets/be476924-9def-4803-b208-0562bbb8af09" /> <img width="282" height="287" alt="Step 4b" src="https://github.com/user-attachments/assets/303306e4-5854-4f93-8ebe-f9117eb525c0" />
+
+
+
 
 </p>
 <p>
   
 - Next, open a new file explorer folder and head to this directory “C:\inetpub\wwwroot”.
+- Next, head over to the “osTicket-v1.15.8” folder and copy the “upload” folder. 
 
 
 </p>
