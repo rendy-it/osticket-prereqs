@@ -420,20 +420,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 - Next, open a new file explorer folder and head to this directory “C:\inetpub\wwwroot”.
-- Next, head over to the “osTicket-v1.15.8” folder and copy the “upload” folder. 
+- Then, head over to the “osTicket-v1.15.8” folder that we extracted earlier and copy the “upload” folder. 
 
 
 </p>
 <br />
 
 <p>
-<img width="436" height="296" alt="Step 4b" src="https://github.com/user-attachments/assets/cabbb1df-73d8-4428-b4fb-90ff544c0bf7" />
+<img width="282" height="287" alt="Step 4ba" src="https://github.com/user-attachments/assets/ef350851-1298-4d81-a127-949a331517f6" /> <img width="111" height="287" alt="Right Pointing Arrow for Step 4a_b" src="https://github.com/user-attachments/assets/3ec0fe5d-e35f-46c7-b68f-40198a902993" /> <img width="282" height="287" alt="Step 4b1" src="https://github.com/user-attachments/assets/f9cd473a-998e-48db-bb78-911fcff905ff" />
+
+
 
 
 </p>
 <p>
   
-- Next, head over to the “osTicket-v1.15.8” folder and copy the “upload” folder. 
+- Next, paste the “upload” folder into the “C:\inetpub\wwwroot” directory.
+-	Then, rename it to “osTicket”.
+
 
 
 
