@@ -445,7 +445,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1063" height="371" alt="Step 3i6" src="https://github.com/user-attachments/assets/86f84a60-91bc-4f0a-9090-e4bc0a412549" />
+<img width="1063" height="371" alt="Step 3i6" src="https://github.com/user-attachments/assets/f8441738-c677-4f29-b72a-fa665ce21eab" />
+
 
 
 </p>
@@ -458,7 +459,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1021" height="374" alt="Step 4c" src="https://github.com/user-attachments/assets/9ac7c417-aa5a-4614-b529-2d59e6522a56" />
+<img width="1021" height="374" alt="Step 4c" src="https://github.com/user-attachments/assets/ec3b24e5-1ee8-4e6e-8246-067171bcc0c6" />
+
 
 </p>
 <p>
@@ -472,7 +474,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="792" height="394" alt="Step 3e" src="https://github.com/user-attachments/assets/ea59a03c-41f3-4e41-832d-7afb4b33ca86" />
+<img width="1845" height="688" alt="Step 4c1" src="https://github.com/user-attachments/assets/53ddc4a8-aa73-489c-979a-de575a2bbb86" />
+
 
 
 
@@ -481,8 +484,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Next, we are going to create the directory C:\PHP :
-  -	Go to your Windows (C:) drive and create a folder named “PHP”.
+- Select “Browse *80 (http)” which should then load osTicket into your web browser.
+- You want to note that there are a few recommended extensions not present with the “X” symbol next to them. We will get some of them in the next few steps.
+
 
 
 
