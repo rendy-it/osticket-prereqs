@@ -497,7 +497,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1185" height="751" alt="Step 3f" src="https://github.com/user-attachments/assets/9ea1a96a-ca47-4711-bfa6-ad6a71d73da9" />
+<img width="1034" height="415" alt="Step 3i2" src="https://github.com/user-attachments/assets/2629a6d3-3c30-4da7-a1e1-9697e423ea7c" />
+
 
 
 
@@ -506,7 +507,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Now go back to the installation files folder and unzip the “php-7.3.8-nts-Win32-VC15-x86” zip file in to the PHP folder.
+- Next, go back to the “IIS” and double click on “PHP Manager”.
 
 
 
