@@ -474,7 +474,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="1845" height="688" alt="Step 4c1" src="https://github.com/user-attachments/assets/53ddc4a8-aa73-489c-979a-de575a2bbb86" />
+<img width="1843" height="693" alt="Step 4c1" src="https://github.com/user-attachments/assets/d1f9b9c8-2b08-4f62-a3d5-e3d2ca8dcd45" />
+
 
 
 
@@ -514,15 +515,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-<img width="989" height="605" alt="Step 3g" src="https://github.com/user-attachments/assets/fb30b596-963f-4296-8a53-f114f5050c69" />
+<img width="556" height="555" alt="Step 4d" src="https://github.com/user-attachments/assets/0216239e-489d-4f72-9b01-eef56df2b2a6" />
 
 
 
 </p>
 <p>
   
-- Next, in the installation files folder:
-  -	Install "VC_redist.x86".
+- Click on “Enable or disable an extension”
 
 
 
@@ -530,17 +530,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-<img width="1012" height="668" alt="Step 3h" src="https://github.com/user-attachments/assets/c50ecce9-952c-44f0-a691-f21b7909bbcb" />
+<img width="233" height="300" alt="Step 4d1" src="https://github.com/user-attachments/assets/974c7673-71be-4e0d-8b72-a247be337566" /> <img width="97" height="300" alt="Right Pointing Arrow for Step 4d1_d2" src="https://github.com/user-attachments/assets/a4226908-23cf-4a1c-9bbf-1c88a0c5b76a" /> <img width="233" height="197" alt="Step 4d2" src="https://github.com/user-attachments/assets/b96a01a5-5f4c-4567-8378-b0879907b322" />
+
+
+
 
 
 
 </p>
 <p>
   
-- Next, in the installation files folder:
-  - Install “MySQL 5.5.62” (mysql-5.5.62-win32.msi).
-  - Select “Typical Setup”, then click Next.
-
+- Then, you want to right click and enable “php_imap.dll”, “php_intl.dll” and “php_opcache.dll”.
 
 
 
