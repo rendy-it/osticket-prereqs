@@ -610,9 +610,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-
-
-
 </p>
 <p>
   
@@ -622,12 +619,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-
 </p>
 <br />
 
 <p>
-<img width="510" height="220" alt="Step 3i4" src="https://github.com/user-attachments/assets/0ee3d8aa-bc8a-4713-bf3a-2d012549bce4" />
+<img width="585" height="395" alt="Step 4f2" src="https://github.com/user-attachments/assets/32b8a9c6-0d51-406a-988a-34f4f7e26d31" />
+
+
+</p>
+<p>
+  
+- Then, select “Disable Inheritance” and select Remove all.
+
+
+
+</p>
+<br />
+<p>
+<img width="261" height="395" alt="Step 4f3" src="https://github.com/user-attachments/assets/73f32fbe-acfa-4a16-98c2-22f430336435" /> <img width="61" height="395" alt="Right Arrow for Step 4f3_4f4" src="https://github.com/user-attachments/assets/8c148944-2215-40a4-a9f1-3c6254314ed7" /> <img width="262" height="395" alt="Step 4f4" src="https://github.com/user-attachments/assets/734e1408-0c81-4483-9e1c-53d20e2789d6" />
 
 
 
@@ -636,14 +645,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Then, click on the 3 dots button “…” next to the path bar.
+- Then, click on “Add” and then “Select a principal”.
 
 
 
 </p>
 <br />
 <p>
-<img width="949" height="572" alt="Step 3i5" src="https://github.com/user-attachments/assets/73a65c30-e1c7-4cc7-a01d-a55a5af3b82a" />
+<img width="453" height="247" alt="Step 4f5" src="https://github.com/user-attachments/assets/64b29821-e12c-4573-93bf-2f6bdb69f30e" />
 
 
 
@@ -652,22 +661,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Then, go to the “PHP” folder that we created and select the “php-cgi” application file. Click open then click OK.
-
-
-
-</p>
-<br />
-<p>
-<img width="1063" height="371" alt="Step 3i6" src="https://github.com/user-attachments/assets/e9f375cb-d3da-4ec3-8eaf-cc6513198257" />
-
-
-
-
-</p>
-<p>
-  
--	Then go back to the main interface and on the top right, click “Stop” then click on “Start”.
+- Then, type “Everyone” and click on Check Names which will then show “Everyone” underlined. Then press OK.
 
 
 
