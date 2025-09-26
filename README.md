@@ -549,10 +549,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img width="357" height="271" alt="Step 3h1" src="https://github.com/user-attachments/assets/8a2b6bc6-11ca-413b-b13c-d1c22e67cfaa" /> <img width="69" height="271" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/66e054cc-2d13-4456-b2f8-aaee676cb56a" /> <img width="357" height="271" alt="Step 3h2" src="https://github.com/user-attachments/assets/00f1cdf3-2e11-49ef-bf88-032cbcb84987" />
+<img width="765" height="594" alt="Step 4d3" src="https://github.com/user-attachments/assets/74cf3840-9ba1-43e7-b27e-c480d5a6a221" />
 
 
 
+</p>
+<p>
+  
+- Next, go back to osTicket in the browser and you want to reload the page. Then you will notice there are more extensions than before.  
+
+
+</p>
+<br />
+<p>
+<img width="855" height="482" alt="Step 4e" src="https://github.com/user-attachments/assets/38e5b9cc-af44-4f5c-8f50-9186ae67ea37" />
+
+
+
+</p>
+<p>
+  
+- Next, go to the folder that we renamed to “osTicket” which will put you to this directory “C:\inetpub\wwwroot\osTicket”
+
+
+</p>
+<br />
+<p>
+<img width="651" height="484" alt="Step 4e1" src="https://github.com/user-attachments/assets/ae7abb3b-4241-443d-be04-acf40780fed5" />
 
 
 
@@ -560,10 +583,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Then the “Instance Configuration Wizard” window will appear.
-- Select “Standard Configuration”, then click Next.
-
-
+- Then, go to the “include” folder.
+- Then, look for the file named “ost-sampleconfig.php”. 
 
 
 
@@ -571,55 +592,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-<img width="358" height="274" alt="Step 3h4" src="https://github.com/user-attachments/assets/b15dc0da-b3d2-4192-9b07-7a50f64bd022" /> <img width="69" height="271" alt="Right Pointing Arrow for Step 3h 1_2" src="https://github.com/user-attachments/assets/eeee5dc0-1d35-4375-ba0e-26da002003ea" /> <img width="358" height="274" alt="Step 3h5" src="https://github.com/user-attachments/assets/f3fb90e7-3d30-4ef3-a080-0fdeb5def206" />
-
-
-
-
-
-
-</p>
-<p>
-  
-- Select Next again, then create a username and password and make sure you do not forget it. Then click Next.
-- Then, select “Execute”.
-
-
-</p>
-<br />
-<p>
-<img width="755" height="590" alt="Step 3i" src="https://github.com/user-attachments/assets/1893f77e-7c90-4dda-8e52-ed05b9404fb4" />
-
+<img width="635" height="484" alt="Step 4e2" src="https://github.com/user-attachments/assets/228e2024-7197-4eb4-9688-7f46a0be8993" />
 
 
 
 </p>
 <p>
   
-- Next, Open IIS as an Administrator.
+- Then, rename it to “ost-config.php”.
 
 
 
 </p>
 <br />
 <p>
-<img width="1034" height="415" alt="Step 3i2" src="https://github.com/user-attachments/assets/be704377-40d6-4235-bbbe-0756104c26d7" />
-
-
-
-
-
-</p>
-<p>
-  
-- Next, double click on “PHP Manager”.
-
-
-
-</p>
-<br />
-<p>
-<img width="623" height="527" alt="Step 3i3" src="https://github.com/user-attachments/assets/058f9bf5-7318-4c5c-a42f-b0f111e74ac8" />
+<img width="320" height="253" alt="Step 4f" src="https://github.com/user-attachments/assets/e6529c6e-e465-47f1-a3b7-c1ff6a117c61" /> <img width="73" height="385" alt="Right Arrow for Step 4f_4f1" src="https://github.com/user-attachments/assets/757c29dc-fa48-4b4c-bd55-37c6fd85a887" /> <img width="276" height="385" alt="Step 4f1" src="https://github.com/user-attachments/assets/ae518866-ef20-4c88-8a06-0d3276ed225f" />
 
 
 
@@ -629,7 +616,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-- Then, click on “Register new PHP version”.
+- Next, we are going to assign permissions to the “ost-config.php” file.
+ - Right click it and select properties.
+ - Then, select the “Security” tab and select Advanced.
+
 
 
 
