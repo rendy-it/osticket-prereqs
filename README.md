@@ -667,6 +667,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+<p>
+<img width="453" height="247" alt="Step 4f5" src="https://github.com/user-attachments/assets/64b29821-e12c-4573-93bf-2f6bdb69f30e" />
+
+
+
+
+
+</p>
+<p>
+  
+- Then, check the “Full Control” box then press OK.
+- Then click on Apply then click on OK to finish.
+
+
+
+
+</p>
+<br />
 
 
 
