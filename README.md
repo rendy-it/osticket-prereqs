@@ -762,10 +762,103 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+<p>
+<img width="939" height="596" alt="Step 4h3" src="https://github.com/user-attachments/assets/9dd76b2c-6e2f-4dfe-b3f7-873562d27809" />
+
+
+</p>
+<p>
+  
+- Then right click “Unnamed”, then “Create New”, then “Database”.
+
+
+
+</p>
+<br />
+<p>
+<img width="940" height="597" alt="Step 4h4" src="https://github.com/user-attachments/assets/1e851576-e92d-4068-a75a-e8eab323a231" />
+
+
+</p>
+<p>
+  
+- Then for the Database name, type in “osTicket” and click on Ok.
+
+
+
+</p>
+<br />
+<p>
+<img width="825" height="423" alt="Step 4i" src="https://github.com/user-attachments/assets/d76c476d-ba86-4126-9ed0-0424330f587f" />
+
+
+
+</p>
+<p>
+  
+- Next, head back to the web browser to continue setting up osTicket:
+  - For “MySQL Database”, type in “osTicket”
+  - For “MySQL Username”, type in the username you chose.
+  - For “MySQL Password”, type in the password you chose.
+-	Then click “Install Now”.
 
 
 
 
+</p>
+<br />
+<p>
+<img width="826" height="642" alt="Step 4j" src="https://github.com/user-attachments/assets/550e5119-ee1b-499e-9540-07d747a60a24" />
+
+
+</p>
+<p>
+  
+- Congratulations! You have now fully installed osTicket.
+
+
+</p>
+<br />
+<p>
+<img width="1155" height="827" alt="Step 4j1" src="https://github.com/user-attachments/assets/d3d53683-8061-4d2b-b605-a18b87b10f9b" />
+
+
+</p>
+<p>
+  
+- Next, you want to check and make sure your login works:
+  -	Go to: http://localhost/osTicket/scp/login.php in the browser.
+  -	Type in the Username and the password you made earlier for the osTicket settings. Then Clikc "Log In".
+
+
+
+</p>
+<br />
+<p>
+<img width="1154" height="566" alt="Step 4j2" src="https://github.com/user-attachments/assets/979c7046-42b6-48d5-9265-57be64fe9854" />
+
+
+</p>
+<p>
+  
+- Once logged in, this is what the page should look like.  
+
+</p>
+<br />
+
+<h2> << Conclusion >> </h2>
+
+<p>
+  
+- Close the Remote Desktop connection.
+- Go Back to your Azure resource group page.
+- Make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
+- Also, make sure your VMs are on “Stop” status if you are not going to use them right away. This way you will not be charged while they are not in use.
+- To conclude, we have successfully installed osTicket inside our Windows Virtual Machine that is being resourced by the Azure cloud infrastructure. 
+
+
+</p>
+<br />
 
 
 
