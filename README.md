@@ -101,8 +101,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2> << Step 3: Install all of the osTicket Requirement Files >> </h2>
 <p>
-<img width="971" height="564" alt="Step 3" src="https://github.com/user-attachments/assets/aed3b5f7-0702-4f80-bd56-f7828852676f" />
-
+<img width="1220" height="716" alt="Step 3" src="https://github.com/user-attachments/assets/c946952a-21b7-45cf-936b-d90285435273" />
 
 
 </p>
@@ -668,9 +667,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-<img width="453" height="247" alt="Step 4f5" src="https://github.com/user-attachments/assets/64b29821-e12c-4573-93bf-2f6bdb69f30e" />
-
-
+<img width="703" height="455" alt="Step 4f6" src="https://github.com/user-attachments/assets/a51159f1-1dd8-48c6-a5f7-0df453833c72" />
 
 
 
@@ -678,8 +675,88 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 - Then, check the “Full Control” box then press OK.
+
+
+
+</p>
+<br />
+<p>
+<img width="588" height="399" alt="Step 4f7" src="https://github.com/user-attachments/assets/ab53d020-1cc5-4036-99b0-506ceae29a72" />
+
+
+
+</p>
+<p>
+  
 - Then click on Apply then click on OK to finish.
 
+
+
+
+</p>
+<br />
+<p>
+<img width="632" height="567" alt="Step 4g" src="https://github.com/user-attachments/assets/e2a4c136-8054-4778-a441-7f81783c1f0d" />
+
+
+</p>
+<p>
+  
+- Next, we are going to set up osTicket’s settings. 
+  -	Go back to osTicket in the browser and select “ Continue >> ”.
+
+
+
+</p>
+<br />
+<p>
+<img width="631" height="618" alt="Step 4g1" src="https://github.com/user-attachments/assets/86bef592-9fec-4733-97e0-a56d60957598" />
+
+
+</p>
+<p>
+  
+- On the next page, fill out all the information. Make sure to use two different emails.
+
+
+</p>
+<br />
+<p>
+<img width="949" height="573" alt="Step 4h" src="https://github.com/user-attachments/assets/91d963e1-2476-48f3-a143-6e19a0460f91" />
+
+
+</p>
+<p>
+  
+- Next, head back to the osTicket Installation Files folder on your Desktop.
+  -	Install “HeidiSQL_12.3.0.6589_Setup”.
+
+
+
+</p>
+<br />
+<p>
+<img width="689" height="484" alt="Step 4h1" src="https://github.com/user-attachments/assets/d5e0bbf4-a720-4335-a3be-b4ed2aa8715f" />
+
+
+
+</p>
+<p>
+  
+- Once installed, open it and select “New”.
+
+
+
+</p>
+<br />
+<p>
+<img width="690" height="486" alt="Step 4h2" src="https://github.com/user-attachments/assets/5d877c78-2f40-4fad-ae91-cbd3ac3a9157" />
+
+
+</p>
+<p>
+  
+- Then, input the username and password that you made earlier when you installed “MySQL 5.5.62” back in Step 3 and click Open.
 
 
 
